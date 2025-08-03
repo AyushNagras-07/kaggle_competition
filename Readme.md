@@ -1,6 +1,6 @@
 # 🤖 Personality Prediction Using Machine Learning
 
-This project was part of the Kaggle Competition, where the goal was to predict whether a person is an **Introvert* or *Extrovert* using behavioral and social traits from a dataset of 20,000+ rows.
+This project was part of the Kaggle Competition, where the goal was to predict whether a person is an *Introvert* or *Extrovert* using behavioral and social traits from a dataset of 20,000+ rows.
 
 ## 👥 Team Members
 - Vedant Tarate
@@ -71,4 +71,3 @@ Given a dataset with features like stage fear, time spent alone, friend circle, 
 
 ---
 
-## 📂 Folder Structure (if applicable)
